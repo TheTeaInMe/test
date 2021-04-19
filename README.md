@@ -1,2 +1,1 @@
-# test
-A test repository.
+418 I'm a teapot
